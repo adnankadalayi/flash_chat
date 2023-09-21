@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860207749440",
+    "project_id": "flash-chat-d4cce",
+    "storage_bucket": "flash-chat-d4cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860207749440:android:9242088b0ad77496cc42a5",
+        "android_client_info": {
+          "package_name": "com.adnan.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xdIM06Rm5F3I0K6-tP15vIfDmAZUu-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
